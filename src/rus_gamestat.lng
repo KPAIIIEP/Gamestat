@@ -1,0 +1,5 @@
+﻿// Мод сделан на основе аналогичного для KB: Принцесса в доспехах (автор - Тузик)
+gamestat_name=Статистика прохождения
+gamestat_author=Crush 
+
+btn_sky_hint=^hint_Day_t^Прошло дней: [day]<br>Время суток: [dt] <gen=gamestat_sky_hint>
